@@ -1,3 +1,9 @@
+
+<img width="1619" height="971" alt="ChatGPT Image May 26, 2026, 06_22_36 PM" src="https://github.com/user-attachments/assets/029563b3-5c60-4d01-b57e-11b0d9e701d7" />
+
+
+
+
 # AWS Multi-Environment Infrastructure Terraform Module
 
 This repository contains a modular Terraform configuration to deploy multi-environment (Dev, Stg, Prod) infrastructure on AWS. It uses a reusable local module (`infra-app`) to define and provision standard resources for each environment.
